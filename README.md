@@ -19,6 +19,8 @@
 
 ## SingleStore
 
+> **Do you want to try WASM in SingleStore?** This feature is still heavily in alpha - so for now, please ping one of us directly via email and we can either run a live demo or get you into a beta program. You can contact carl <at> singlestore DOT com directly.
+
 SingleStore is a scale-out relational database built for data-intensive workloads. We are hiring! Check out our open positions on our [careers page](https://www.singlestore.com/careers)!
 
 If you want to try SingleStore, [take it for a spin in our cloud service](https://www.singlestore.com/managed-service-trial/)!
