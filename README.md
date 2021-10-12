@@ -14,6 +14,9 @@
 * https://github.com/singlestore-labs/wasi-data-rust
 * https://github.com/singlestore-labs/wasi-data-python
 
+**links**
+* https://substrait.io/
+
 ## SingleStore
 
 SingleStore is a scale-out relational database built for data-intensive workloads. We are hiring! Check out our open positions on our [careers page](https://www.singlestore.com/careers)!
